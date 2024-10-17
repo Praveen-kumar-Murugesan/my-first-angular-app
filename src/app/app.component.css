@@ -1,0 +1,15 @@
+.even-item {
+    background-color: lightgreen;
+}
+
+.odd-item {
+    background-color: lightblue;
+}
+
+.primary {
+    color: lightgrey;
+}
+
+.big {
+    font-size: 40px;
+}
